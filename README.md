@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 Now you can run the service nativelly
 ```bash
-chmod +x /entrypoint.sh
+chmod +x ./entrypoint.sh
 ./entrypoint.sh
 ```
 
